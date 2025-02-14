@@ -1,10 +1,16 @@
 # CODTECH-TASK-4
 COMPANY:CODTECH IT SOLUTIONS
+
 NAME:VALLAPU SATHVIKA
+
 INTERN ID:CT08RGJ
+
 DOMAIN:PYTHON PROGRAMMING
+
 DURATION:4 WEEKS
+
 MENTOR:NEELA SANTOSH
+
 **DESCRIPTION OF THE CODE***
 This Python code implements a **spam email classification** model using a **Naive Bayes classifier**. It is performed within a **Jupyter Notebook**, where the code is executed step by step, allowing for easy debugging and visualization of results. The model is trained to distinguish between 'ham' (non-spam) and 'spam' messages based on a dataset, and evaluates its performance using several metrics such as accuracy, precision, recall, and confusion matrix visualization.
 
