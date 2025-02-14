@@ -52,3 +52,4 @@ The code is implemented in a **Jupyter Notebook**, which allows for an interacti
 **Conclusion**
 
 This spam classification model demonstrates how to use **Scikit-learn** and **Pandas** for text classification tasks. It processes the text data, trains a **Naive Bayes** classifier, and evaluates the model's performance. The use of **Jupyter Notebook** facilitates the interactive and step-by-step execution of the code, making it easy to experiment with different datasets, models, and evaluation metrics.
+***OUTPUT***:![Image](https://github.com/user-attachments/assets/6621063d-3d0e-48ac-b718-0c0919b88d83)
